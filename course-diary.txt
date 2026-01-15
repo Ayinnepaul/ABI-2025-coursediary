@@ -1,0 +1,1 @@
+Git has local and remote repositories
